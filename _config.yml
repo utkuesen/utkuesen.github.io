@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Software and Security
-email: doslumehmetcan@gmail.com
+title: Web and Mobile Development
+email: utku.esen91@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-   Mehmet Can  
+   Utku Esen  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: mcdness2
-github_username:  mecand
+twitter_username: yok
+github_username:  utkuesen
 
 # Build settings
 theme: minima

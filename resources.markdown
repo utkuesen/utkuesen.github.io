@@ -4,5 +4,5 @@ title: Resources
 permalink: /resources/
 ---
 
-Mehmet Can DÖŞLÜ
+Utku Esen
 

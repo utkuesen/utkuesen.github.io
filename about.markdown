@@ -6,5 +6,5 @@ image: /assets/images/profile.jpg
 ---
 
 ![]({{page.image | relative_url}})
-Mehmet Can DÖŞLÜ
+Utku Esen
 
